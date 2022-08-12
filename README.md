@@ -20,6 +20,6 @@
 
 7. Execute the test cases by clicking on the test button,there is no need to pass the class name as a parameter.
 
-   <img src="img4.PNG" />
+   
 
 
